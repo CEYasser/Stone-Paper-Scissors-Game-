@@ -1,6 +1,15 @@
-Stone Paper Scissors Game - C++ Implementation
+# Rock, Paper, Scissors Game
 
-C++ Stone, Paper, Scissors game using structured programming. 
-Features include Enum-based logic, Structs for round/game data, 
-and random computer moves. Supports multi-round matches, score tracking, 
-and replay options. Clean, modular code demonstrating core C++ principles.
+A simple command-line Rock, Paper, Scissors game written in C++. This is my first programming project, featuring a score tracker and the ability to play multiple rounds against the computer.
+
+## Features
+* Choose number of rounds to play.
+* Random computer moves.
+* Live score tracking (Wins, Losses, Draws).
+* Option to replay at the end of the game.
+
+## How to Play
+Enter one of the following numbers when prompted:
+* **1** = Rock
+* **2** = Paper
+* **3** = Scissors
